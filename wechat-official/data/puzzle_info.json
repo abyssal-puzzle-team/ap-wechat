@@ -1,0 +1,1022 @@
+{
+    "chapters":
+    [
+        {
+        "id": 1,
+        "name": "钟楼",
+        "news_description": " ",
+        "news_img" : "https://mmbiz.qpic.cn/mmbiz_jpg/x0lwngPKUjhMkafUHVrsOPDlJJB0DnCrnClD2ZRVMk7fArPaw6g4UjG8Nemr1toia21r0jGiaOsUk3G5rZBjLbCA/640?wx_fmt=jpeg&from=appmsg",
+        "news_url" : "https://mp.weixin.qq.com/s/FSRUGnkPtm73xadIATbF4Q",
+        "puzzle_count": 5,
+        "count_demand": 4,
+        "puzzle":[
+                {
+                    "id": 1,
+                    "name": "钟表",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "观察每个指针所指向的方向。",
+                            "cost": 100
+                        },
+                        {
+                            "id": 2,
+                            "title" : "本题使用的加密方式是什么？", 
+                            "content": "旗语。",
+                            "cost": 200
+                        },
+                        {
+                            "id": 3,
+                            "title" : "我确定我已经明白了一切，但我还是不知道答案的(5)是什么。",
+                            "content": "请尝试寻找更完整的数据库，你会找到符合(5)的答案。",
+                            "cost": 500
+                        }
+                    ],
+                    "milestone": [
+                    ] ,
+                    "answer": "SPACE"
+                },
+
+                {
+                    "id": 2,
+                    "name": "彩色地砖",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" : "我毫无头绪。", 
+                            "content": "把红色和绿色的色块看成同一种颜色。",
+                            "cost": 250
+                        }
+                    ],
+                    "milestone": [] ,
+                    "answer": "RED AND GREEN"
+                },
+
+                {
+                    "id": 3,
+                    "name": "未闻花名",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" : "我毫无头绪。", 
+                            "content": "尝试辨认图中的花卉。",
+                            "cost": 100
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我到底要做什么？", 
+                            "content": "把图中花卉的名称翻译成英文。",
+                            "cost": 200
+                        },
+                        {
+                            "id": 3,
+                            "title" : "该如何提取？", 
+                            "content": "利用每个图片中花卉的数量。",
+                            "cost": 300
+                        },
+                        {
+                            "id": 4,
+                            "title" : "该如何排序？", 
+                            "content": "利用中央一图中的箭头。",
+                            "cost": 50
+                        }
+                    ],
+                    "milestone": [] ,
+                    "answer": "DOCUMENT"
+                },
+
+                {
+                    "id": 4,
+                    "name": "Crush Expert",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" : "我毫无头绪。", 
+                            "content": "每条clue描述的东西都有一个与其成对或配套的东西。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "该如何排序？", 
+                            "content": "按照纸片的叠放顺序从上到下。",
+                            "cost": 300
+                        }
+                    ],
+                    "milestone": [] ,
+                    "answer": "SISTER CITIES"
+                },
+
+                {
+                    "id": 5,
+                    "name": "有点长了？",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" : "我毫无头绪。", 
+                            "content": "写出图中事物所对应的英文表述，并提取对应位置的字母。",
+                            "cost": 100
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我得到了一个里程碑，但它是什么意思？", 
+                            "content": "字面意思，把这些单词用中文表述出来，然后寻找它们之间的关系。",
+                            "cost": 300
+                        },
+                        {
+                            "id": 3,
+                            "title" : "本题使用的加密方式是什么？", 
+                            "content": "摩斯。",
+                            "cost": 500
+                        }
+                    ],
+                    "milestone": [{"id": 1, "content" : "translateintochinese", "response" : "这是一个里程碑！"}] ,
+                    "answer": "CHORDS"
+                }
+            ]
+        },
+
+        {
+        "id": 2,
+        "name": "图书馆",
+        "news_description": " ",
+        "news_img" : "https://mmbiz.qpic.cn/mmbiz_jpg/x0lwngPKUjhMkafUHVrsOPDlJJB0DnCrtQyExpT8U909ticjTt1zIReHNiaBhgKbsJ3Rre8jZar3oNORK9PCiacWA/640?wx_fmt=jpeg&from=appmsg",
+        "news_url" : "https://mp.weixin.qq.com/s/FKngJ1vKQiS7b7kxb7w12A",
+        "puzzle_count": 5,
+        "count_demand": 4,
+        "puzzle":[
+                {
+                    "id": 1,
+                    "name": "抢座",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "你可以尝试根据ft中某些描述来推断出座位的占用状态该如何表示！",
+                            "cost": 500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "为什么座位使用记录看起来这么奇怪？", 
+                            "content": "图书馆事实上并没有这么多桌子。桌子的编号与它当前的座位占用状态有关。",
+                            "cost": 1500
+                        },
+                        {
+                            "id": 3,
+                            "title" : "我需要使用什么来进行操作？", 
+                            "content": "盲文表。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 4,
+                            "title" : "我只能得到一串无意义的内容，是哪里没有理解？", 
+                            "content": "你可以观察开头几条记录和后面记录的关系。例如，你们已经知道了A会变成K，那么这个桌子的编号现在就是K。",
+                            "cost": 2000
+                        }
+                    ],
+                    "milestone": [{"id": 1,
+                                "content" : "wowsurprisethisisaredherring",
+                                "response" : "啊呀！你遇到了红鲱鱼(red herring)！"}
+
+                    ] ,
+                    "answer": "RECORD"
+                },
+
+                {
+                    "id": 2,
+                    "name": "霓虹灯牌",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "这是什么？", 
+                            "content": "一个常见物体的若干组三视图的拼图。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我该怎么做？", 
+                            "content": "按照公式复原。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "最后一张图是什么意思？", 
+                            "content": "尝试“换个角度”思考，你会发现它似曾相识。",
+                            "cost": 500
+                        }   
+                    ],
+                    "milestone": [
+
+                    ] ,
+                    "answer": "BURN"
+                },
+
+                {
+                    "id": 3,
+                    "name": "Insight",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "每段文字都指向了与本题主题相关的一种生物。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "第1段文字描述的是什么？", 
+                            "content": "末影人。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 3,
+                            "title" : "第2段文字描述的是什么？", 
+                            "content": "山羊。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 4,
+                            "title" : "第3段文字描述的是什么？", 
+                            "content": "女巫。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 5,
+                            "title" : "第4段文字描述的是什么？", 
+                            "content": "监守者。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 6,
+                            "title" : "第5段文字描述的是什么？", 
+                            "content": "蜜蜂。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 7,
+                            "title" : "第6段文字描述的是什么？", 
+                            "content": "发光鱿鱼。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 8,
+                            "title" : "第7段文字描述的是什么？", 
+                            "content": "哞菇。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 9,
+                            "title" : "第8段文字描述的是什么？", 
+                            "content": "苦力怕。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 10,
+                            "title" : "第9段文字描述的是什么？", 
+                            "content": "鸡。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 11,
+                            "title" : "该如何提取？", 
+                            "content": "每段文字中都有一个数字。",
+                            "cost": 1500
+                        } 
+                    ],
+                    "milestone": [
+
+                    ] ,
+                    "answer": "NOTE BLOCK"
+                },
+
+                {
+                    "id": 4,
+                    "name": "地震",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我该做什么？", 
+                            "content": "拼图。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我得到了一个里程碑，但它是什么意思？", 
+                            "content": "它有两个含义，一个与拼好的图一起提示你下一步的操作，一个指向最终提取。",
+                            "cost": 1500
+                        },
+                        {
+                            "id": 3,
+                            "title" : "我得到了一个里程碑，该使用什么工具进行下一步？", 
+                            "content": "世界地图。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 4,
+                            "title" : "该如何提取？", 
+                            "content": "首字母。",
+                            "cost": 1000
+                        }   
+                    ],
+                    "milestone": [
+                            {"id": 1, "content" : "capital", "response" : "这是一个里程碑！"}
+                    ] ,
+                    "answer": "ROAD TRANSPORT"
+                },
+
+                {
+                    "id": 5,
+                    "name": "LETTER SQUARE",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我该从哪里开始？", 
+                            "content": "观察方阵的周围。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "[C7]要做什么？", 
+                            "content": "寻找方阵中的“NSWE”对。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 3,
+                            "title" : "[P8]要做什么？", 
+                            "content": "方阵中有一些含密钥的[P8]。",
+                            "cost": 500
+                        }, 
+                        {
+                            "id": 4,
+                            "title" :  "[A7]要做什么？", 
+                            "content": "方阵中有一组相邻的[A7]。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 5,
+                            "title" : "[C9]要做什么？", 
+                            "content": "方阵中存在一个井字形的[C9]。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 6,
+                            "title" : "[M6]要做什么？", 
+                            "content": "方阵中有一些[M6]的缩写。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 7,
+                            "title" : "[R13]要做什么？", 
+                            "content": "方阵中有一些明显的[R13]。",
+                            "cost": 500
+                        }, 
+                        {
+                            "id": 8,
+                            "title" : "该如何提取？", 
+                            "content": "将以上几步的结果按顺序连接成一句话。",
+                            "cost": 1000
+                        }   
+
+                    ],
+                    "milestone": [
+                            {"id": 1, "content" : "extract", "response" : "这是一个里程碑！"},
+                            {"id": 2, "content" : "remaining", "response" : "这是一个里程碑！"},
+                            {"id": 3, "content" : "letters", "response" : "这是一个里程碑！"},
+                            {"id": 4, "content" : "sort", "response" : "这是一个里程碑！"},
+                            {"id": 5, "content" : "by", "response" : "这是一个里程碑！"},
+                            {"id": 6, "content" : "columns", "response" : "这是一个里程碑！"}
+                    ] ,
+                    "answer": "CRYPTOLOGY"
+                }
+            ]
+        },
+
+        {
+        "id": 3,
+        "name": "教堂",
+        "news_description": " ",
+        "news_img" : "https://mmbiz.qpic.cn/mmbiz_jpg/x0lwngPKUjhMkafUHVrsOPDlJJB0DnCrBcq8VV9uPyXHZLu4eU91gRyiaDZZrmwBN41iajDohyLsaDMibOSibVcG5Q/640?wx_fmt=jpeg&from=appmsg",
+        "news_url" : "https://mp.weixin.qq.com/s/LQL7C0d96gB2nnG8RYh_pg",
+        "puzzle_count": 5,
+        "count_demand": 4,
+        "puzzle":[
+                {
+                    "id": 1,
+                    "name": "天书",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "self-non-idea.",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 2,
+                            "title" : " ft是什么意思？", 
+                            "content": "词汇词根分析。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "我理解我要做什么了，但是我在第一步遇到了一些困难。", 
+                            "content": "1. aero mammal\n2. micro oto son\n3. multi arbor arium\n4. geo circum act astro ery\n5. aqu terra circum macro ery\n6. ab cumulo sub act dri ant",
+                            "cost": 3000
+                        }
+                    ],
+                    "milestone": [
+
+                    ] ,
+                    "answer": "TITULAR"
+                },
+
+                {
+                    "id": 2,
+                    "name": "顾客与蛋糕店",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "一位测试工程师走进一家酒吧……酒吧炸了。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我理解了题目的意思，但在确认答案时遇到了一些困难！", 
+                            "content": "你可以参考https://docs.pythonlang.cn/3/library/exceptions.html#concrete-exceptions。",
+                            "cost": 3000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "该如何提取？", 
+                            "content": "使用每行的顾客数量作为Index。",
+                            "cost": 1000
+                        }    
+                    ],
+                    "milestone": [
+
+                    ] ,
+                    "answer": "APPOINTMENT"
+                },
+
+                {
+                    "id": 3,
+                    "name": "一道水题",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "顺序组词，汉字表示某一部分的笔画数。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我理解了题目的意思，但遇到了一些困难，能否再给我一个突破口？", 
+                            "content": "【江河湖海】四字是相连的。",
+                            "cost": 3000
+                        }
+                    ],
+                    "milestone": [
+
+                    ] ,
+                    "answer": "PASCAL"
+                },
+
+                {
+                    "id": 4,
+                    "name": "所谓伊人",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "观察右上角的九宫格，发现有三个 4*5 的格子遵循某种规律。注意到某个地方也出现过 4*5 的格子。",
+                            "cost": 500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "数字和字母是什么？", 
+                            "content": "按键序列里面的位置，用 16 进制表示。具体可以看中间表格的表头。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "四张带有灰色方格的透明纸片是干什么的？", 
+                            "content": "观察到它在图中和一个九宫格大小一样。它是用来遮挡九宫格，去掉一些信息的。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 4,
+                            "title" : "经过透明纸片处理之后的数字有什么规律？", 
+                            "content": "左侧的数字符合数独的规则；右侧的数字-9后符合数独的规则。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 5,
+                            "title" : "经过透明纸片处理之后的数字的位置有什么规律？", 
+                            "content": "每个小题对应的两个4*5区域在挡住后，有且仅有一个左侧与右侧都有16进制数字的格子，也就是说每小题答案中有且仅有一个按键按过两次。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 6,
+                            "title" : "第 1 到 4 小题的区域左上角的格子分别对应什么？", 
+                            "content": "0，7，=，AC。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 7,
+                            "title" : "第 5 到 8 小题的区域左上角的格子分别对应什么？", 
+                            "content": "0，7，=，0。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 8,
+                            "title" : "第 1 小题答案是什么？", 
+                            "content": "1 3 - Ans × 2 0 . ÷ 4 2 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 9,
+                            "title" : "第 2 小题答案是什么？", 
+                            "content": "1 4 9 ÷ 5 + 0 - Ans × 1 . 6 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 10,
+                            "title" : "第 3 小题答案是什么？", 
+                            "content": "3 ÷ 4 8 . 0 × Ans + 2 9 5 ÷ 1 6 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 11,
+                            "title" : "第 4 小题答案是什么？", 
+                            "content": "0 - Ans × 4 . + 9 5 . ÷ 1 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 12,
+                            "title" : "第 5 小题答案是什么？", 
+                            "content": "- Ans × 1 0 ÷ 4 + 5 6 . 5 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 13,
+                            "title" : "第 6 小题答案是什么？", 
+                            "content": "0 - Ans × 2 . ÷ 4 + 1 8 . 5 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 14,
+                            "title" : "第 7 小题答案是什么？", 
+                            "content": "- Ans × 7 ÷ 5 + 2 6 . 6 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 15,
+                            "title" : "第 8 小题答案是什么？", 
+                            "content": "3 7 + 0 - Ans × 1 6 . ÷ 7 =",
+                            "cost": 800
+                        },
+                        {
+                            "id": 16,
+                            "title" : "该如何提取？", 
+                            "content": "输入 ft 中的“0 =”，随后按 1 到 8 的顺序输入 8 个小题的按键序列，将得到的答案 A1Z26。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 17,
+                            "title" : "我提取出了某条已知信息，接下来我要干什么？", 
+                            "content": "“再试一次”，Ans 是上次的第 8 小题得数，重新按顺序输入按键序列。",
+                            "cost": 3000
+                        }
+                    ],
+                    "milestone": [
+                            
+                    ] ,
+                    "answer": "CYTOSINE"
+                },
+
+                {
+                    "id": 5,
+                    "name": "影评家",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" : "「一行不行」怎么做？", 
+                            "content": "注意题目中两个“行”的关系，题面也是类似的。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 2,
+                            "title" : "「转圈圈」怎么做？", 
+                            "content": "把写出的东西与角度建立联系。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 3,
+                            "title" : "「对“对”子」怎么做？", 
+                            "content": "you find“对”place！只要“对”每个英语进行翻译，并连同“对”理解即可。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 4,
+                            "title" :  "「几月几日？」怎么做？", 
+                            "content": "以“甲月乙日”的形式写出每一个圈住的日期，并与对应的图片的物品建立联系。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 5,
+                            "title" : "「选哪个？」怎么做？", 
+                            "content": "注意以“蜜”“沪”“霸”“奈”开头的四字名称都是一些你在生活中见到的东西。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 6,
+                            "title" : "「多彩素描」怎么做？", 
+                            "content": "素描要用到很多种类的笔。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 7,
+                            "title" : "「☀❀」怎么做？", 
+                            "content": "尝试描述虚线上方的画面，你可以发现它与虚线下面的对应关系。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 8,
+                            "title" : "「交错解码」怎么做？", 
+                            "content": "将下方的字叠到上图合适位置，并读取有意义的内容。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 9,
+                            "title" : "「悲喜交加」怎么做？", 
+                            "content": "可以直接看图说话，念出上面一行或者下面一行，另外也可以注意一些日常生活中你经常使用的东西。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 10,
+                            "title" : "「文生图」怎么做？", 
+                            "content": "寻找这些企业或品牌的logo。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 11,
+                            "title" : " 括号里的数字是什么意思？", 
+                            "content": "数字是影片的影剧备字号或影科备字号。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 12,
+                            "title" : "我不知道如何使用这些数字！", 
+                            "content": "你可以使用这个数据库：https://www.chinafilm.gov.cn/",
+                            "cost": 3000
+                        },
+                        {
+                            "id": 13,
+                            "title" : "该如何提取？", 
+                            "content": "部分片名与小题名存在重合，且与小题答案长度相同。提取片名“点题”位置的字母即可。",
+                            "cost": 3000
+                        }
+                    ],
+                    "milestone": [
+                        {"id": 1, "content" : "mapping", "response" : "这是小题答案之一！"},
+                        {"id": 2, "content" : "absolutezero", "response" : "这是小题答案之一！"},
+                        {"id": 3, "content" : "value", "response" : "这是小题答案之一！"},
+                        {"id": 4, "content" : "labafestival", "response" : "这是小题答案之一！"},
+                        {"id": 5, "content" : "aquaregia", "response" : "这是小题答案之一！"},
+                        {"id": 6, "content" : "height", "response" : "这是小题答案之一！"},
+                        {"id": 7, "content" : "rainbow", "response" : "这是小题答案之一！"},
+                        {"id": 8, "content" : "justice", "response" : "这是小题答案之一！"},
+                        {"id": 9, "content" : "flag", "response" : "这是小题答案之一！"},
+                        {"id": 10, "content" : "games", "response" : "这是小题答案之一！"}
+                    ] ,
+                    "answer": "MOVIE TITLE"
+                }
+            ]
+        },
+
+        {
+        "id": 4,
+        "name": "天文台",
+        "news_description": " ",
+        "news_img" : "https://mmbiz.qpic.cn/mmbiz_jpg/x0lwngPKUjhMkafUHVrsOPDlJJB0DnCrLwrvSHqV62HEV6uTsKibMH2eaqX078LaWZRox67OM6E2WHk3Wz4Tgeg/640?wx_fmt=jpeg&from=appmsg",
+        "news_url" : "https://mp.weixin.qq.com/s/YpDNPcfThc1bSbA7X0rcaw",
+        "puzzle_count": 5,
+        "count_demand": 4,
+        "puzzle":[
+                {
+                    "id": 1,
+                    "name": "星途WeG01ng",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "本题取材于微信小程序《星途WeGoing》, 可以试玩一下。",
+                            "cost": 1500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "本题使用的加密方式是什么？", 
+                            "content": "五位二进制。",
+                            "cost": 3000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "该如何处理某些缺失的信息？", 
+                            "content": "根据该游戏的规则，如果想从一个轨道成功切换到下一个轨道，那么只有一种情况。",
+                            "cost": 3000
+                        }
+                    ],
+                    "milestone": [
+                        {"id": 1, "content" : "miss", "response" : "人生漫旅迢迢，璞玉机缘缀道。\n一朝擦肩误许，转身便隔尘嚣。\n请提交正确答案【OPPORTUNITY】。"}
+                    ] ,
+                    "answer": "OPPORTUNITY"
+                },
+
+                {
+                    "id": 2,
+                    "name": "星迹战棋",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "每个部分是一个融合了多种规则的游戏，你需要据此完成相应的任务。",
+                            "cost": 1500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "第1部分不会，怎么做!", 
+                            "content": "利用棋子连续将军击杀黑王，观察棋子行动轨迹。",
+                            "cost": 3000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "第2部分不会，怎么做!", 
+                            "content": "先扫雷，把所有的雷点标出来，即可发现答案，注意棋子所在位置无雷。",
+                            "cost": 3000
+                        },
+                        {
+                            "id": 4,
+                            "title" : "第3部分不会，怎么做!", 
+                            "content": "斗地主和UNO的杂交规则，找出让黑方必胜的唯一解法，注意UNO的功能牌需要考虑花色问题，提取黑方打出的最后一张牌。",
+                            "cost": 3000
+                        }
+                    ],
+                    "milestone": [
+                        {"id": 1, "content" : "tra", "response" : "(5)"}
+                    ] ,
+                    "answer": "TRACE"
+                },
+
+                {
+                    "id": 3,
+                    "name": "新建 Microsoft Excel 工作表.xlsx",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪！", 
+                            "content": "双箭头上的数字的表示表格的行列数，你需要据此找到缺失的表格。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "①与什么有关？", 
+                            "content": "数学运算。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "②与什么有关？", 
+                            "content": "时间。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 4,
+                            "title" : "③与什么有关？", 
+                            "content": "生物学。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 5,
+                            "title" : "④与什么有关？", 
+                            "content": "化学。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 6,
+                            "title" : "⑤与什么有关？", 
+                            "content": "电子设备。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 7,
+                            "title" : "⑥与什么有关？", 
+                            "content": "地理学与考古学。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 8,
+                            "title" : "⑦与什么有关？", 
+                            "content": "棋类。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 9,
+                            "title" : "⑧与什么有关？", 
+                            "content": "计算机科学。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 10,
+                            "title" : "⑨与什么有关？",
+                            "content": "语言。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 11,
+                            "title" : "〇如何提取？", 
+                            "content": "使用搜索引擎或思考小题答案与该题题目的联系，对不同区域进行对应操作即可。",
+                            "cost": 2000
+                        }
+                    ],
+                    "milestone": [
+                        {"id": 1, "content" : "type", "response" : "这是小题答案之一！"},
+                        {"id": 2, "content" : "median", "response" : "这是小题答案之一！"},
+                        {"id": 3, "content" : "mdeterm", "response" : "这是小题答案之一！"},
+                        {"id": 4, "content" : "counta", "response" : "这是小题答案之一！"},
+                        {"id": 5, "content" : "columns", "response" : "这是小题答案之一！"},
+                        {"id": 6, "content" : "odd", "response" : "这是小题答案之一！"},
+                        {"id": 7, "content" : "int", "response" : "这是小题答案之一！"},
+                        {"id": 8, "content" : "lcm", "response" : "这是小题答案之一！"},
+                        {"id": 9, "content" : "min", "response" : "这是小题答案之一！"}
+                    ] ,
+                    "answer": "AGGREGATE"
+                },
+
+                {
+                    "id": 4,
+                    "name": "回心转意",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "观察图中带线实心圆和空心圆两种图案的特点，并结合ft理解。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "图中实心圆和空心圆是什么意思？", 
+                            "content": "实心圆和空心圆的大小相同，且是成对出现的，因此你需要让它们“相遇”。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "我应该怎么做？", 
+                            "content": "以无圆一端为圆心，旋转每一个实心圆到空心圆的位置。",
+                            "cost": 4000
+                        },
+                        {
+                            "id": 4,
+                            "title" : "该如何提取？", 
+                            "content": "旋转轨迹象形。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 5,
+                            "title" : "我不知道如何对某些特殊的图形进行处理。", 
+                            "content": "灰色实心圆都是已经与空心圆重合的，所以灰色是为了表示该位置同时有一个实心圆和一个空心圆。",
+                            "cost": 2000
+                        }
+                    ],
+                    "milestone": [
+                        
+                    ] ,
+                    "answer": "BRATISLAVA"
+                },
+
+                {
+                    "id": 5,
+                    "name": "麦席森式相爱",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我毫无头绪。", 
+                            "content": "搜索标题的人名试试？",
+                            "cost": 500
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我想知道一些解决这类题目的技巧。", 
+                            "content": "先试着研究指令列表在做什么操作，再根据题目所给数据进行计算。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 3,
+                            "title" : "我想知道一些解决较复杂计算的工具。", 
+                            "content": "你可以使用 Mathematica 或 Maple 等较高级计算器，搜索网页上的计算器，或使用 AI 工具编写程序进行计算。第一种方式最推荐，第三种方式只适合处理一些简单的、普通计算器无法处理的问题，并且有出错的可能。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 4,
+                            "title" : "第 1 小题的公式是什么？", 
+                            "content": "若初始有n个乙色格子，则步数为3n^2+5n+1。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 5,
+                            "title" : "第 2 小题的八个人分别在做什么？", 
+                            "content": "甲：存储坐标；乙：存储函数值；丙：递归调用栈，存储坐标；丁：递归调用栈，存储状态（0为刚开始，1为计算函数的某个部分，2为计算函数的另一个部分）；戊：栈元素计数器变量；己：当前处理元素状态变量；庚、辛：临时变量。",
+                            "cost": 1000
+                        },
+                        {
+                            "id": 6,
+                            "title" : "第 2 小题在计算什么？", 
+                            "content": "一个函数f(x)，若x<0则f(x)=-x，否则f(x)=f(x-f(x-1))/2，题目计算的是1/f(3)。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 7,
+                            "title" : "我知道第 2 小题在进行什么操作了，但我无法完成计算。我想知道它是什么领域的东西。", 
+                            "content": "大数学（Googology）与集合论。",
+                            "cost": 800
+                        },
+                        {
+                            "id": 8,
+                            "title" : "我需要能直接搜索到的第 2 小题所计算东西的名称。", 
+                            "content": "题目中计算的函数叫做伪燃烧函数。",
+                            "cost": 4000
+                        },
+                        {
+                            "id": 9,
+                            "title" : "我想知道关于第 3 小题的一个关键操作。", 
+                            "content": "将甲所在位置的非空格子改为空，并在乙所在长廊上将计数器加一。计数器使用二进制计数，甲色对应0，乙色对应1。",
+                            "cost": 2000
+                        },
+                        {
+                            "id": 10,
+                            "title" : "第 3 小题的公式是什么？", 
+                            "content": "设初始甲纸带上连续非空格子的长度为n，则乙所在长廊（计数器）上的数字为floor(log2(n))，其中floor为向下取整。计数器使用二进制计数，甲色对应0，乙色对应1。",
+                            "cost": 4000
+                        }  
+                    ],
+                    "milestone": [
+                        {"id": 1, "content" : "19382833601900000", "response" : "参考示例，最后一步也要算哦！"},
+                        {"id": 2, "content" : "19382833601900001", "response" : "这是小题数字答案之一！"},
+                        {"id": 3, "content" : "2^1541023937", "response" : "这是小题数字答案之一！"},
+                        {"id": 4, "content" : "3*10^103259", "response" : "这是小题中间答案之一！"},
+                        {"id": 5, "content" : "120118", "response" : "这是小题数字答案之一！"},
+                        {"id": 6, "content" : "s", "response" : "这是小题答案之一！"},
+                        {"id": 7, "content" : "cho", "response" : "这是小题答案之一！"},
+                        {"id": 8, "content" : "lar", "response" : "这是小题答案之一！"}
+                    ],
+                    "answer": "SCHOLAR"
+                }
+
+            ]
+        },
+
+        {
+        "id": 5,
+        "name": "孤岛",
+        "news_description": " ",
+        "news_img" : "https://mmbiz.qpic.cn/mmbiz_jpg/x0lwngPKUjjlMxe1xgfO5RbgkGeCWsaFibVFMZa02gjzJvPeJL6HHPyz3DxqJTwZRGrYHJcnwwic3fM1YhLYUa9Q/640?wx_fmt=jpeg&from=appmsg",
+        "news_url" : "https://mp.weixin.qq.com/s/M_ROh2KFLpgfPdFSyfTuUg",
+        "puzzle_count": 1,
+        "count_demand": 1,
+        "puzzle":[
+                {
+                    "id": 1,
+                    "name": "孤岛",
+                    "hints": [
+                        {
+                            "id": 1,
+                            "title" :  "我该如何处理小题答案？", 
+                            "content": "填入符文板。",
+                            "cost": 5000
+                        },
+                        {
+                            "id": 2,
+                            "title" : "我已经对小题答案进行了处理，但还是不知道下一步该怎么做。", 
+                            "content": "尝试把符文板叠起来。",
+                            "cost": 10000
+                        },
+                        {
+                            "id": 3,
+                            "title" : "该如何提取？", 
+                            "content": "提取不与其他字母相邻处的字母。",
+                            "cost": 10000
+                        },
+                        {
+                            "id": 4,
+                            "title" : "我在进行操作后发现较为混乱，难以提取，是忽略了什么信息？", 
+                            "content": "每个折点都位于一个18*18网格中每个小格的正中心。",
+                            "cost": 5000
+                        }
+                    ],
+                    "milestone": [
+                        
+                    ] ,
+                    "answer": "RECAPTURE THE ETERNITY CORE"
+                }
+            ]
+        }  
+    ]
+}
