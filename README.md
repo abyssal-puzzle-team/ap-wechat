@@ -1,4 +1,4 @@
-<font face="黑体">
+<font face="HeiTi">
 
 # Abyssal Puzzle公众号系统(ap-wechat)教程
 ## 前言
@@ -146,6 +146,8 @@ python db_init.py
 systemctl start wechat-official.service
 ```
 接下来，在你的公众号后台发送指令（例如 /帮助），如果后台有回应，恭喜你部署成功！如果有报错，可以询问大模型或询问我。
+
+指令菜单请见该仓库的`command_menu`文件夹。
 
 ## 简单使用
 一般来说，对该系统的简单使用不需要二次开发，只需要修改一些数据即可。
